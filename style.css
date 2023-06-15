@@ -1,0 +1,65 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+#container{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 1050px;
+    margin: auto;
+    height: 700px;
+}
+
+header{
+    text-align: center;
+    color: lime;
+}
+
+img{
+    width: 200px;
+    margin: 50px 0px 0px;
+}
+
+nav{
+    background-color: lime;
+    text-align: center;
+    width: 900px;
+    margin: auto;
+    padding: 10px;
+}
+
+main{
+    width: 900px;
+    margin: auto;
+    color: white;
+    font: caption;
+}
+
+h2{
+    display: inline-block;
+    margin: 10px 1px 1px;
+}
+
+hr{ height: 20px;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+#scooter1{
+    width: 300px;
+    background-color: orange;
+    border: 1px dotted orange;
+    
+}
+
+#scooter2{
+    width: 400px;
+    background-color: limegreen;
+    border: 1px solid limegreen;
+}
+
+#scooter3{
+    width: 200px;
+    background-color: red;
+    border: 1px solid red;
+}
